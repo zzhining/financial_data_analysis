@@ -12,3 +12,7 @@
 - `Finance Data Reader`를 사용하여 개별 주식 가격 정보를 수집하고 , `거래량으로 분석하라` 책의 내용을 참고하여 **거래량 기반 매매타점** 판별 알고리즘을 구현
 - [코드 바로가기](https://github.com/zzhining/financial_data_analysis/blob/main/volume_mass_analysis.ipynb)
 - (참고) [FininceDataReader](https://financedata.github.io/posts/finance-data-reader-users-guide.html), [S&P500 분석]()
+
+## 신문기사 스크랩
+- 네이버 증권의 일자별 신문기사 스크랩하여 csv 파일로 저장하는 코드
+- [코드 바로가기](https://github.com/zzhining/financial_data_analysis/blob/main/finance_news_scrap.ipynb)
