@@ -16,3 +16,7 @@
 ## 신문기사 스크랩
 - 네이버 증권의 일자별 신문기사 스크랩하여 csv 파일로 저장하는 코드
 - [코드 바로가기](https://github.com/zzhining/financial_data_analysis/blob/main/finance_news_scrap.ipynb)
+
+## 증권 리포트(paxnet) 스크랩
+- [Paxnet](https://www.paxnet.co.kr/stock/report/report?wlog_rpt=jm&menuCode=2222)의 투자 의견(매수/매도 등)을 스크랩하여 csv파일로 저장하는 코드
+- [코드 바로가기]()
