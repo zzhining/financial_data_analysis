@@ -19,4 +19,4 @@
 
 ## 증권 리포트(paxnet) 스크랩
 - [Paxnet](https://www.paxnet.co.kr/stock/report/report?wlog_rpt=jm&menuCode=2222)의 투자 의견(매수/매도 등)을 스크랩하여 csv파일로 저장하는 코드
-- [코드 바로가기]()
+- [코드 바로가기](https://github.com/zzhining/stock_market_analysis/blob/main/4%EC%A3%BC%EC%B0%A8/10_paxnet_%EC%A6%9D%EA%B6%8C%EC%82%AC_%EC%A2%85%EB%AA%A9_%EB%A6%AC%ED%8F%AC%ED%8A%B8.ipynb)
