@@ -22,7 +22,7 @@
 - [코드 바로가기](https://github.com/zzhining/stock_market_analysis/blob/main/4%EC%A3%BC%EC%B0%A8/10_paxnet_%EC%A6%9D%EA%B6%8C%EC%82%AC_%EC%A2%85%EB%AA%A9_%EB%A6%AC%ED%8F%AC%ED%8A%B8.ipynb)
 
 ## 주가 데이터 예측
-- 주가 데이터(종가)를 활용한 ML 기반 회귀모델: [코드 바로가기]()
+- 주가 데이터(종가)를 활용한 ML 기반 회귀모델: [코드 바로가기](https://github.com/zzhining/financial_data_analysis/blob/main/stock_hybrid_models.ipynb)
 - 주가 데이터(종가)를 활용한 DL 기반 회귀모델: [코드 바로가기]()
 
 ---
