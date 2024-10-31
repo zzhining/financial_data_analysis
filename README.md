@@ -27,5 +27,5 @@
 
 ---
 ## 참고자료
-- [시계열데이터 선형회귀분석 코드](https://github.com/zzhining/time_series_basic/blob/main/02_time_series_prediction_toy_model.ipynb)
-- [시계열데이터 하이브리드 분석 코드](https://github.com/zzhining/time_series_basic/blob/main/06_hybrid_models.ipynb)
+- 책 판매량 예측 모델: [시계열데이터 선형회귀분석 코드](https://github.com/zzhining/time_series_basic/blob/main/02_time_series_prediction_toy_model.ipynb)
+- 트랜드 + 계절성 기반 예측 모델: [시계열데이터 하이브리드 분석 코드](https://github.com/zzhining/time_series_basic/blob/main/06_hybrid_models.ipynb)
