@@ -20,3 +20,12 @@
 ## 증권 리포트(paxnet) 스크랩
 - [Paxnet](https://www.paxnet.co.kr/stock/report/report?wlog_rpt=jm&menuCode=2222)의 투자 의견(매수/매도 등)을 스크랩하여 csv파일로 저장하는 코드
 - [코드 바로가기](https://github.com/zzhining/stock_market_analysis/blob/main/4%EC%A3%BC%EC%B0%A8/10_paxnet_%EC%A6%9D%EA%B6%8C%EC%82%AC_%EC%A2%85%EB%AA%A9_%EB%A6%AC%ED%8F%AC%ED%8A%B8.ipynb)
+
+## 주가 데이터 예측
+- 주가 데이터(종가)를 활용한 ML 기반 회귀모델: [코드 바로가기]()
+- 주가 데이터(종가)를 활용한 DL 기반 회귀모델: [코드 바로가기]()
+
+---
+## 참고자료
+- [시계열데이터 선형회귀분석 코드](https://github.com/zzhining/time_series_basic/blob/main/02_time_series_prediction_toy_model.ipynb)
+- [시계열데이터 하이브리드 분석 코드](https://github.com/zzhining/time_series_basic/blob/main/06_hybrid_models.ipynb)
